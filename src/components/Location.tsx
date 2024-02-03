@@ -7,7 +7,9 @@ const Location = () => {
             I’ve lived and worked all over — New York, <br /> London, Miami,
             Toronto and now the beautiful <br /> island of Mallorca.
           </p>
-          <p className="">Ready? Let’s get started.</p>
+          <p className="">
+            Ready? Let’s  <span className="underline underline-offset-8"> get started</span>.
+          </p>
         </div>
       </main>
     </>
