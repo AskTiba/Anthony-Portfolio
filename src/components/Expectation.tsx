@@ -9,38 +9,53 @@ const Expectation = () => {
         </div>
         <div className="my-10 bg-[#92DAC4] pt-10 pb-20 px-10 rounded-[30px] max-w-max">
           <p className="font-[600] text-[48px] tracking-[0.96px]">
-            I’ll bring <br /> years of <br /> experience, <br /> big energy{" "}
-            <br /> and fresh <br /> thinking.
+            I bridge the gap <br /> between designers, <br /> back-end wizards,
+            <br /> and stakeholders. <br /> My front-end magic <br /> aligns
+            with their <br /> visions, creating <br /> seamless user <br />
+            experiences.
           </p>
         </div>
         <div className="my-10 bg-[#CFF574] pt-10 pb-20 px-10 rounded-[30px] max-w-max">
           <p className="font-[600] text-[48px] tracking-[0.96px]">
-            Listen, challenge and <br /> reconnect the dots — joining <br />{" "}
-            your team with conviction and <br /> openness.
+            When tensions rise, <br />I channel my inner <br /> diplomat,
+            seeking <br /> common ground <br /> and ensuring our <br /> ship
+            sails smoothly <br /> through stormy <br /> waters.
           </p>
         </div>
         <div className="my-10 bg-[#F4A399] pt-10 pb-20 px-10 rounded-[30px] max-w-max">
           <p className="font-[600] text-[48px] tracking-[0.96px]">
-            Bridge the gap <br /> between creative <br /> and commercial <br />{" "}
-            objectives — <br /> speaking both <br /> languages.
+            Constructive feedback <br /> is a gift, and I unwrap <br /> it with
+            gratitude. Let’s <br /> elevate each other’s <br /> skills through{" "}
+            <br /> thoughtful reviews.
           </p>
         </div>
         <div className="my-10 bg-[#88CCDB] pt-10 pb-20 px-10 rounded-[30px] max-w-max">
           <p className="font-[600] text-[48px] tracking-[0.96px]">
-            Recognise potential <br /> — pushing brands to <br /> become better
-            than <br /> you ever thought <br /> possible.
+            I actively listen <br /> to my teammates, <br /> bouncing ideas off{" "}
+            <br /> each other, catching <br /> bugs together, and <br />{" "}
+            celebrating those <br /> “aha” moments.
+          </p>
+        </div>
+        <div className="my-10 bg-[#b76fe6] pt-10 pb-20 px-10 rounded-[30px] max-w-max">
+          <p className="font-[600] text-[48px] tracking-[0.96px]">
+            When I’m not <br /> immersed in code, <br /> you’ll find me <br />
+            exploring new <br /> libraries, attending <br /> tech meetups, and{" "}
+            <br /> experimenting with <br /> creative UI <br /> animations.
           </p>
         </div>
         <div className="my-10 bg-[#9FB9EB] pt-10 pb-20 px-10 rounded-[30px] max-w-max">
           <p className="font-[600] text-[48px] tracking-[0.96px]">
-            Giving you the <br /> foundations to scale <br /> — from world-class{" "}
-            <br /> design and advisory to <br /> building your future team.
+            I believe that great <br />
+            design is a blend of <br /> aesthetics and <br />
+            functionality. Let’s <br /> create experiences <br /> that resonate
+            with <br /> users.
           </p>
         </div>
         <div className="my-10 bg-[#B498CF] pt-10 pb-20 px-10 rounded-[30px] max-w-max">
           <p className="font-[600] text-[48px] tracking-[0.96px]">
-            Teach teams to <br /> move at velocity <br /> and have a hell <br />{" "}
-            of a lot of fun <br /> doing it.
+            I believe in celebrating <br /> every milestone as <br /> a team.
+            So, whether <br /> it’s a hackathon sprint <br /> or a long-term
+            project, <br /> count me in.
           </p>
         </div>
       </main>
